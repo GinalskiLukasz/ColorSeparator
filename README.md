@@ -1,1 +1,1 @@
-Prosta aplikacja wykorzystująca JavaFx oraz interfejs Comparator<T>
+Studyjna aplikacja wykorzystująca JavaFx oraz interfejs Comparator<T>
